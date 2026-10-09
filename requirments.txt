@@ -1,0 +1,3 @@
+# Rule-Based AI Chatbot
+# No external packages are required.
+# This project uses Python standard library features only
